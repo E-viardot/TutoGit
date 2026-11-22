@@ -101,7 +101,7 @@ Le programme affiche `Erreur: ...` et s'arrête quand :
 
 ## Répartition du travail
 
-| Membre | Ce qu'il a fait | 
+| Membre | Ce qu'on a fait| 
 |---|---|
 |Emilie |fichier Message, encoder et BMP |
 |Marina |fichier BMP, Main et README | 
