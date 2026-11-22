@@ -92,15 +92,6 @@ Le programme affiche `Erreur: ...` et s'arrête quand :
 - le message est chiffré et aucune clé n'est donnée ;
 - l'écriture du fichier de sortie échoue.
 
-## Limites connues
-
-- Le programme ne vérifie pas que le BMP est bien en 24 bits non compressé : un autre format n'est pas refusé clairement et sera mal lu.
-- Il ne vérifie pas non plus que la largeur et la hauteur sont positives.
-- Si les pixels du fichier sont coupés, on ne le détecte pas au chargement.
-- Les octets qui seraient après les pixels dans le fichier ne sont pas recopiés.
-- Une mauvaise clé n'est pas détectée.
-- Un message vide est refusé.
-- L'affichage des accents dépend du terminal.
 
 ## Sources
 
