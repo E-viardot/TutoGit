@@ -45,8 +45,6 @@ On travaille avec des BMP en 24 bits, non compressés. Le programme :
 - `Encoder.h` / `Encoder.cpp` : cacher et retrouver le message, avec le XOR.
 - `Message.h` / `Message.cpp` : la classe `Message` (texte et clé) et les fonctions sur les bits (`GetBit`, `SetBit`, `ClearBit`).
 
-Une composante, c'est un des octets B, G ou R d'un pixel. Le padding n'en fait pas partie.
-
 ## Ce qui est caché dans l'image
 
 Avant le message, on écrit 9 octets d'informations :
