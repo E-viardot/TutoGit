@@ -114,5 +114,5 @@ Le programme affiche `Erreur: ...` et s'arrête quand :
 
 | Membre | Ce qu'il a fait | 
 |---|---|
-|Emilie |fichier Message,encoder et BMP |
+|Emilie |fichier Message, encoder et BMP |
 |Marina |fichier BMP, Main et encoder | 
