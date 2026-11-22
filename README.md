@@ -97,7 +97,7 @@ Le programme affiche `Erreur: ...` et s'arrête quand :
 
 - Microsoft Learn : BMP Format
 - Les cours et les exemples de la prof (opérations sur les bits, lecture de fichiers binaires)
-- Gimp Manual : Exporting an Image (pour préparer les images de test)
+- des recherches
 
 ## Répartition du travail
 
